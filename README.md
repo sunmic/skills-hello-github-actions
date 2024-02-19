@@ -11,6 +11,8 @@
 
 _Create a GitHub Action and use it in a workflow._
 
+Commit any change to your branch, such as adding an emoji to your README.md file. DONE :smile:
+
 </header>
 
 <!--
